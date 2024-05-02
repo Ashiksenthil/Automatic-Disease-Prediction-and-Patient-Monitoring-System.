@@ -46,7 +46,7 @@ The project aims to enhance patient monitoring and disease prediction using a co
 
 ## Authors
 
-- **Ashik S** - [AshikS]((https://github.com/Ashiksenthil))
+- **Ashik S** - [AshikS](https://github.com/Ashiksenthil)
 - **Bala Subramaniyan S** 
 - **Dharanishan K**  
 - **Ganeshraja A**  
