@@ -43,9 +43,6 @@ The project aims to enhance patient monitoring and disease prediction using a co
 3. Data is sent to ThingSpeak for storage and analysis.
 4. The prediction results are calculated and displayed on the LCD and also can be viewed in the ThingSpeak channel.
 
-## Contributing
-
-Interested in contributing to the project? Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
