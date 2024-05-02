@@ -30,7 +30,7 @@ The project aims to enhance patient monitoring and disease prediction using a co
 
 ## Setup and Installation
 
-1. **Hardware Setup**: Assemble the hardware components based on the circuit diagrams provided in the `hardware` directory.
+1. **Hardware Setup**: Assemble the hardware components based on the circuit diagrams provided in the `hardware`[ directory.
 2. **Software Installation**:
    - Install Arduino IDE and configure the ESP8266 board.
    - Setup a ThingSpeak channel for collecting sensor data.
@@ -47,13 +47,9 @@ The project aims to enhance patient monitoring and disease prediction using a co
 ## Authors
 
 - **Ashik S** - [AshikS](https://github.com/AshikS)
-- **Bala Subramaniyan S** - [BalaS](https://github.com/BalaS)
-- **Dharanishan K** - [DharanishanK](https://github.com/DharanishanK)
-- **Ganeshraja A** - [GaneshrajaA]
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+- **Bala Subramaniyan S** 
+- **Dharanishan K**  
+- **Ganeshraja A**  
 
 ## Acknowledgments
 
