@@ -49,10 +49,10 @@ Interested in contributing to the project? Please read `CONTRIBUTING.md` for det
 
 ## Authors
 
-- **Ashik S** - *Initial work* - [AshikS](https://github.com/AshikS)
-- **Bala Subramaniyan S** - *Sensor integration* - [BalaS](https://github.com/BalaS)
-- **Dharanishan K** - *Data analysis* - [DharanishanK](https://github.com/DharanishanK)
-- **Ganeshraja A** - *Machine learning model* - [GaneshrajaA](https://github.com/GaneshrajaA)
+- **Ashik S** - [AshikS](https://github.com/AshikS)
+- **Bala Subramaniyan S** - [BalaS](https://github.com/BalaS)
+- **Dharanishan K** - [DharanishanK](https://github.com/DharanishanK)
+- **Ganeshraja A** - [GaneshrajaA]
 
 ## License
 
@@ -61,6 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
