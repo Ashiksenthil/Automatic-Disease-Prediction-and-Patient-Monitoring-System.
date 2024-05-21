@@ -44,7 +44,7 @@ The project aims to enhance patient monitoring and disease prediction using a co
 4. The prediction results are calculated and displayed on the LCD and also can be viewed in the ThingSpeak channel.
 
 
-## Authors
+## Team Members
 
 - **Ashik S** - [AshikS](https://github.com/Ashiksenthil)
 - **Bala Subramaniyan S** 
