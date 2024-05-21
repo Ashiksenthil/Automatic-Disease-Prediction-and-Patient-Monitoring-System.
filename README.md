@@ -1,6 +1,6 @@
 # Advanced Patient Monitoring System with Disease Prediction
 
-![Patient Analysis System](C:/Users/redch/OneDrive/Desktop/Screenshot 2024-05-21 161957.png)
+![Patient Analysis System](https://github.com/Ashiksenthil/Automatic-Disease-Prediction-and-Patient-Monitoring-System./assets/119279236/f0a1d2b6-332d-44a3-95e6-5477324d68d1)
 
 ## Introduction
 
