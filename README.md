@@ -1,6 +1,6 @@
 # Advanced Patient Monitoring System with Disease Prediction
 
-![Patient Analysis System](./path/to/your/image/Screenshot 2024-05-21 161957.png)
+![Patient Analysis System](C:/Users/redch/OneDrive/Desktop/Screenshot 2024-05-21 161957.png)
 
 ## Introduction
 
