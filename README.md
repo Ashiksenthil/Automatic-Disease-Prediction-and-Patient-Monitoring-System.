@@ -1,10 +1,11 @@
 # Advanced Patient Monitoring System with Disease Prediction
 
-![Patient Analysis System](https://github.com/Ashiksenthil/Automatic-Disease-Prediction-and-Patient-Monitoring-System./assets/119279236/0063250f-190a-4923-ae41-6f9a4b465a00)
 
 ## Introduction
 
 This project implements an advanced patient monitoring system that leverages IoT and machine learning technologies to provide continuous and proactive healthcare solutions. The system uses sensors to collect essential patient data, which is then analyzed to predict potential diseases and provide timely medical recommendations.
+
+![Patient Analysis System](https://github.com/Ashiksenthil/Automatic-Disease-Prediction-and-Patient-Monitoring-System./assets/119279236/0063250f-190a-4923-ae41-6f9a4b465a00)
 
 ## Features
 
