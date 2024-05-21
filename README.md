@@ -23,10 +23,35 @@ This project implements an advanced patient monitoring system that leverages IoT
 
 ## Project Structure
 
-- `hardware/` - Contains the design and implementation of the hardware components.
-- `software/` - Includes the code for data collection, processing, and machine learning algorithms.
-- `mobile_app/` - The source code for the patient-facing mobile application.
-- `documentation/` - Project documentation and reports.
+### Hardware Components
+![Hardware Image](https://github.com/Ashiksenthil/Automatic-Disease-Prediction-and-Patient-Monitoring-System./assets/119279236/9c242c88-1f40-478b-97d6-e9cc6bf60420)
+The project uses several key hardware components to collect and transmit patient data:
+
+- **Sensors:** Various sensors are employed to gather vital signs from the patient, including heart rate, temperature, and blood pressure.
+- **NodeMCU:** This microcontroller unit is used to collect data from the sensors and transmit it wirelessly to the cloud. It features built-in Wi-Fi capabilities, making it ideal for IoT applications.
+- **LM35 Temperature Sensor:** An analog temperature sensor used to measure the patient's body temperature with high accuracy.
+- **MAX30100 Pulse Oximeter Sensor:** This sensor measures both the pulse rate and the oxygen saturation (SpO2) levels in the blood.
+- **LCD Display:** A display module used to show real-time sensor data and system status to the user.
+
+### Software Components
+
+The software aspect of the project includes several components for data collection, processing, and analysis:
+![IOT Outcome](https://github.com/Ashiksenthil/Automatic-Disease-Prediction-and-Patient-Monitoring-System./assets/119279236/3e28a306-fe4d-48eb-8d47-9d21000ee026)
+- **Arduino IDE:** Used for programming the NodeMCU microcontroller to interface with the sensors and send data to the cloud.
+- **ThinkSpeak:** A cloud platform that receives, processes, and stores the data from the NodeMCU. ThinkSpeak allows real-time data streaming and provides tools for data analysis and visualization.
+- **Google Colab:** Utilized for developing and running machine learning algorithms to predict potential diseases based on the collected data. The platform offers powerful computational resources and easy integration with datasets.
+- **Mobile Application:** A user-friendly application designed for patients to monitor their health data, receive alerts, and communicate with healthcare providers.
+
+### Project Output
+
+The project aims to provide a comprehensive patient monitoring system with the following outputs:
+![Outcome Results](https://github.com/Ashiksenthil/Automatic-Disease-Prediction-and-Patient-Monitoring-System./assets/119279236/0e975674-de16-4c01-89aa-ac8d670fdc4c)
+- **Real-time Data Monitoring:** Continuous monitoring of patient vitals such as heart rate, temperature, and SpO2 levels, displayed on an LCD screen and accessible via the mobile app.
+- **Disease Prediction:** Utilizes machine learning algorithms, specifically the K-Nearest Neighbors (KNN) algorithm, to analyze the collected data and predict potential diseases. This enables early intervention and timely medical care.
+- **Alerts and Notifications:** The mobile application sends timely alerts and notifications to patients and healthcare providers, ensuring prompt response to any critical changes in the patient's health status.
+- **Data Visualization:** ThinkSpeak provides real-time data visualization, making it easier to track and understand health trends over time.
+
+By integrating these hardware and software components, the project delivers a robust and reliable system for proactive healthcare monitoring and disease prediction.
 
 ## Getting Started
 
